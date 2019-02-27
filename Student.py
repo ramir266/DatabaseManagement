@@ -30,3 +30,4 @@ class Student:
     def gettuple(self):
         return self.firstname, self.lastname, self.gpa, self.major, self.facultyadvisor
 
+
