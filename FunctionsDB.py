@@ -64,7 +64,7 @@ class FunctionDB:
         firstname = raw_input();
         print("Enter student's last name: ")
         lastname = raw_input()
-        print("Enter GPA")
+        print("Enter GPA: ")
         gpa = raw_input()
         print("Enter student's major: ")
         major = raw_input()
